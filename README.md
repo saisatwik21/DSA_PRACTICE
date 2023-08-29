@@ -4,4 +4,4 @@ Data Structures and Algorithms
 Easy
 Medium
 Hard
-leet codes
+leet code problems.
